@@ -1,1 +1,15 @@
 # AI_CHATBOT
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : VEMULA HARISHMA
+
+**INTERN ID** : CT6WEOV
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 17th,2024 to FEBRUARY 2nd,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (8)](https://github.com/user-attachments/assets/0852d7f8-5955-423c-9075-b837591c3dcb)
